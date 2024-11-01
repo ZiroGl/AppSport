@@ -68,6 +68,10 @@ Na tela principal, o usuário tem a possibilidade de calcular a distancia que pe
 
 <img src="https://github.com/user-attachments/assets/6412eaf2-bf9a-48c1-bace-a4996617fac8" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppSport/blob/main/AppSport.apk"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/AppSport/blob/main/LICENSE)  
