@@ -1,3 +1,7 @@
+## 📱 Descrição
+
+O *AppSport* permite ao usuário realizar o calculo da distância percorrida levando em consideração os seus passos. 
+
 ## 🔧 Funcionalidades
 - [x] Dados: número de passos, tamanho dos passos, intensidade;
 - [x] Interface simples e intuitiva;
